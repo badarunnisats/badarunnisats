@@ -1,8 +1,8 @@
 ![Screenshot 2024-01-02 185610](https://github.com/badarunnisats/badarunnisats/assets/109198401/4613614b-3422-40fb-8def-2ab5c3d64b1f)
 
-### Hi 👋 I'm Badarunnisa......
+#                       Hi 👋 I'm Badarunnisa......
 
-### I'm an aspiring Data SCientist who wishes to solve the problems in the world by the means of data.............!!!!!
+### I'm an aspiring Data Scientist who wishes to solve the problems in the world by the means of data.............!!!!!
 
 🚀 As a dedicated Data Analyst and Data Science Enthusiast, I specialize in implementing machine learning techniques to drive data-backed business solutions.
 
