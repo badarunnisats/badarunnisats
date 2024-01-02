@@ -1,4 +1,4 @@
-![Screenshot 2024-01-02 185610](https://github.com/badarunnisats/badarunnisats/assets/109198401/4613614b-3422-40fb-8def-2ab5c3d64b1f)
+![Screenshot 2024-01-02 185656](https://github.com/badarunnisats/badarunnisats/assets/109198401/baac00d6-fedd-4557-90c2-eca86f419d1c)
 
 #                       Hi 👋 I'm Badarunnisa......
 
